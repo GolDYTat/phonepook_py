@@ -1,0 +1,4 @@
+0;Ivan;123;None
+1;Petr;125;Work
+2;Tat;999;Home
+3;Konstantin;92109856;None 
